@@ -1,1 +1,1 @@
-Before you proceed please download and install these Fonts
+Before you proceed please download and install the Fonts attached
