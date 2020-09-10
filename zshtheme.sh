@@ -1,3 +1,4 @@
+cd ~
 echo "Installing ZSH instead of bash"
 sudo apt install zsh
 echo "When it asks for what to run default instead of ***/bin/bash*** please select ***/bin/zsh*** without the stars (*)"
